@@ -28,12 +28,14 @@
     
     <li>Besides that, as a former accountant, I am interested in Quality Code that can be applied to solve problem in accounting</li>
     </ul>
+    
 <h3> Other interests</h3>
     <ul>
       <li>I am also excited to work with like-minded developers</li>
     <li>Otherwise, I am interested in setting up new products such as creating a picture in computer by myself</li>
     </ul>
-  </ul>
+    </ul>
+
       
 <h2><li>Contact </li> </h2>
      
