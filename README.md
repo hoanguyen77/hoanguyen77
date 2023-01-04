@@ -38,25 +38,22 @@
   <p>It is my pleasure to be contacted by you. Feel free to contact or follow me</p>
     <ul>
         <li> <div class="code-block"><code>&lt;a href="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3B179iURI7RsyjNKKanceVhQ%3D%3D" &gt; Linkedln &lt;/a&gt;</code></div>     
-<p><a href=" https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3B179iURI7RsyjNKKanceVhQ%3D%3D">Linkedln:</a></p> </li>
+<a href="">Linkedln:</a><br> </li>
          
    <li><div class="code-block"><code>&lt;a href="https://github.com/hoanguyen77/hoanguyen77" &gt; GitHub&lt;/a&gt;</code></div>     
-<p><a href=" https://github.com/hoanguyen77/hoanguyen77">GitHub:</a></p> </li>
+<a href="">GitHub:</a><br> </li>
          
 <li><div class="code-block"><code>&lt;a my email="https://mail.google.com/mail/u/0/#inbox" &gt; Email Me&lt;/a&gt;</code></div>     
-<p><a href=" https://mail.google.com/mail/u/0/#inbox">Email Me:</a></p> </li>
+<a href="">Email Me:</a><br> 
+	    </li>   
     </ul>
-</ul>
-		</ol>
-
-    
-    <hr>
-    
-  
-   email address: hoayear77@gmail.com
-
-  </footer>
-	<script src="script.js">
+    </ul>
+	</ol>
+		
+<footer>
+		<p>email address: hoayear77@gmail.com</p>
+</footer>
+   	<script src="script.js">
 	</script>
 </body>
 
