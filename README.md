@@ -1,4 +1,4 @@
--<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -48,6 +48,7 @@
          
 <li><div class="code-block"><code>&lt;a my email="https://mail.google.com/mail/u/0/#inbox" &gt; Email Me&lt;/a&gt;</code></div>     
 <p><a href=" https://mail.google.com/mail/u/0/#inbox">Email Me:</a></p> </li>
+</ul>
 </ul>
 </ol>      
     <hr>
