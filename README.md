@@ -37,10 +37,10 @@
  <ul>    
   <p>It is my pleasure to be contacted by you. Feel free to contact or follow me</p>
     <ul>
-        <li> <div class="code-block"><code>&lt;a href="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3B179iURI7RsyjNKKanceVhQ%3D%3D" &gt; Linkedln &lt;/a&gt;</code></div>     
+        <li> <div class="code-block"><code>&lt;a href="https://https://www.linkedin.com/in/hoa-nguyen-849825260/" &gt; Linkedln &lt;/a&gt;</code></div>     
 <a href="">Linkedln:</a><br> </li>
          
-   <li><div class="code-block"><code>&lt;a href="https://github.com/hoanguyen77/hoanguyen77" &gt; GitHub&lt;/a&gt;</code></div>     
+   <li><div class="code-block"><code>&lt;a href="https://github.com/hoanguyen77/hoanguyen77.github.io" &gt; GitHub&lt;/a&gt;</code></div>     
 <a href="">GitHub:</a><br> </li>
          
 <li><div class="code-block"><code>&lt;a my email="https://mail.google.com/mail/u/0/#inbox" &gt; Email Me&lt;/a&gt;</code></div>     
