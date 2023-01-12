@@ -1,0 +1,52 @@
+
+/* ------------------------ 
+
+     SIMPLE CSS PAGE 
+	
+--------------------------- */
+
+
+
+/* ----- =structure ----- */
+
+body {
+	background-color: #fff;
+}
+
+header {
+	height: 60px;
+	background-color: #fff;
+  font-family: 'Oswald', sans-serif;
+}
+
+main {
+	padding-top: 40px;
+	min-height: 400px;
+  font-size: 16px;
+}
+
+footer {
+	height: 16px;
+	background-color: #bdcbd9;
+}
+
+/* ----- =logo ----- */
+
+h1 {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 50px;
+	margin: 0 0 0 20px;
+    color: #8f99a4;
+}
+
+
+/* ----- =footer ----- */
+
+footer {
+	text-align: left;	
+}
+footer #copyright {
+	color: #fff;
+	padding-top: 10px;
+}
