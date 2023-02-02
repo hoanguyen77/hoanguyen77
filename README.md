@@ -46,7 +46,7 @@
    <li><div class="code-block"><code>&lt;a href="https://github.com/hoanguyen77/hoanguyen77" &gt; GitHub&lt;/a&gt;</code></div>     
 <a href="">GitHub:</a><br> </li>
          
-<li><div class="code-block"><code>&lt;a my email="https://mail.google.com/mail/u/0/#inbox" &gt; Email Me&lt;/a&gt;</code></div>     
+<li><div class="code-block"><code>&lt;a href="https://hoayear77@gmail.com" &gt; </code></div>     
 <a href="">Email Me:</a><br> 
 	    </li>   
     </ol>
