@@ -40,7 +40,7 @@ h1 {
 img {
   display: block;
   margin-left: auto;
-  text-align: center;
+  vertical-align: center;
   margin-right: auto;
   width: 15%;
 }
