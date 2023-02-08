@@ -38,7 +38,9 @@ h1 {	font-size: 20px;
 img {
   display: block;
   margin-left: auto;
+  vertical-align: center;
   margin-right: auto;
+  width: 15%;
 }
 
 
