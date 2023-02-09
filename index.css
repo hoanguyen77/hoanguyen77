@@ -30,7 +30,12 @@ footer {
 
 /* ----- =logo ----- */
 
-h1 {font-size: 20px;
+header h1 {font-size: 20px;
+    text-align: center;
+    padding-top: 40px;	
+    color: #8f99a4;
+}
+main h1 {font-size: 20px;
     text-align: center;
     padding-top: 40px;	
     color: #8f99a4;
@@ -42,12 +47,7 @@ img {
   margin-right: auto;
   width: 15%;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 p {margin-left: 31px;
 }
 
