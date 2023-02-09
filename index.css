@@ -30,7 +30,7 @@ footer {
 
 /* ----- =logo ----- */
 
-header h1 {	font-size: 20px;
+h1 {font-size: 20px;
 	text-align: center;
 	padding-top: 40px;
 	
@@ -49,7 +49,8 @@ img {
   margin-right: auto;
   width: 50%;
 }
-p {border-left: 17px;}
+p {border-left: 17px;
+}
 
 /* ----- =footer ----- */
 footer {
