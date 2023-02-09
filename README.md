@@ -52,15 +52,13 @@
     </ol>
     </ul>
 	</ul>
-		
+	</main>	
 <footer>
 		<p>email address: hoayear77@gmail.com</p>
 		
 </footer>
    
 
-	<script src="script.js">
-	</script>
 </body>
 
 </html>
