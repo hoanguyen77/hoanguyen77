@@ -52,7 +52,7 @@ p {margin-left: 35px;
 footer {
 	text-align: left;	
 }
-footer p {text-aligh: left;
+footer p {margin-left: 0px;
 }
 footer #copyright {
 	color: #fff;
