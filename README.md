@@ -12,7 +12,7 @@
 	<header>
    
 		<h1>Hello! I'm Hoa Nguyen</h1>
-     <img src="/hinhhoa1.jpg" width="60" />
+     <img src="hinhhoa1.jpg" src="hinhhoa1.jpg" alt="my picture" class="center">
 	</header>
 	<main>
 		<ul>
