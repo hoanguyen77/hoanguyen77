@@ -40,9 +40,9 @@
   <p>It is my pleasure to be contacted by you. Feel free to contact or follow me</p>
     <ol>
         <li> <a href="https://www.linkedin.com/in/hoa-nguyen-849825260/" >Linkedln:</a></li> 
+	    <li><a href="https://github.com/hoanguyen77/hoanguyen77/"> GitHub </a> </li>
       
-         <li><a href="https://github.com/hoanguyen77/hoanguyen77/"> GitHub </a> </li> 
-   
+        
          
 <li><a href="https://hoayear77@gmail.com" >Hoa's Email </a>  </li>   
     </ol>
