@@ -44,7 +44,7 @@
       
         
          
-<li><a href="https://hoayear77@gmail.com" >Hoa's Email </a>  </li>   
+
     </ol>
     </ul>
 	</ul>
@@ -54,7 +54,7 @@
 		
 </footer>
    
-
+		<p>email address: hoayear77@gmail.com</p> 
 </body>
 
 </html>
