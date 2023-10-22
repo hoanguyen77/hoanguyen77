@@ -50,7 +50,7 @@
 	</ul>
 	</main>	
 <footer>
-		<p>email address: hoayear77@gmail.com</p>
+<!-- 		<p>email address: hoayear77@gmail.com</p> -->
 		
 </footer>
    
